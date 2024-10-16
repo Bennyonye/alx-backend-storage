@@ -88,3 +88,5 @@ $ curl "https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-
 $ echo "SELECT * FROM tv_genres" | mysql -uroot -p hbtn_0d_tvshows
 ```
 
+## Author
+This project is developed and maintained by **BennyOnye**.
